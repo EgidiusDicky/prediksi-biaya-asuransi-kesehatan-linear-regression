@@ -1,7 +1,5 @@
 # Prediksi Biaya Asuransi Kesehatan (Linear Regression)
 
-Final Project Mata Kuliah **Big Data & Data Mining**.
-
 ## Deskripsi
 Proyek ini membangun model **Linear Regression** untuk memprediksi biaya asuransi kesehatan berdasarkan data demografis dan gaya hidup peserta.
 
